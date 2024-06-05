@@ -3,12 +3,12 @@ main = "src/index.js"
 compatibility_date = "2022-05-13"
 
 kv_namespaces = [
-  { binding = "NOTES", id = "b3afc649c15247c9962346b3de4730cc", preview_id = "01083e57f68046079a62015c3ea4a145" },
-  { binding = "SHARE", id = "c075feeec9b6414296e6a3df7404e6a8", preview_id = "f89caa54860940709800dc6ed3ff920a" }
+  { binding = "NOTES", id = "24210bacd70f493eb3cfcd8291a9c5e5", preview_id = "01083e57f68046079a62015c3ea4a145" },
+  { binding = "SHARE", id = "d19b7c0be70b4c7e961381d09896f793", preview_id = "f89caa54860940709800dc6ed3ff920a" }
 ]
 
 [env.production]
 kv_namespaces = [
-    { binding = "NOTES", id = "b3afc649c15247c9962346b3de4730cc" },
-    { binding = "SHARE", id = "c075feeec9b6414296e6a3df7404e6a8" }
+    { binding = "NOTES", id = "24210bacd70f493eb3cfcd8291a9c5e5" },
+    { binding = "SHARE", id = "d19b7c0be70b4c7e961381d09896f793" }
 ]
